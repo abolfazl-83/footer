@@ -1,0 +1,1 @@
+a footer using react and styled components.
